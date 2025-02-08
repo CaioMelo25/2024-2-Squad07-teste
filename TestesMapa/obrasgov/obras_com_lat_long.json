@@ -3018,8 +3018,8 @@
         "valorInvestimentoPrevisto": 3891249.91
       }
     ],
-    "latitude": -15.7657500064603,
-    "longitude": -47.87161
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "19979.53-65",
@@ -3099,8 +3099,8 @@
         "valorInvestimentoPrevisto": 7500000
       }
     ],
-    "latitude": -15.7957300064917,
-    "longitude": -47.86865
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "20766.53-40",
@@ -3862,8 +3862,8 @@
         "valorInvestimentoPrevisto": 1261843.41
       }
     ],
-    "latitude": -16.04868,
-    "longitude": -47.48143
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "21905.53-36",
@@ -4023,7 +4023,9 @@
         "origem": "Federal",
         "valorInvestimentoPrevisto": 16691637.38
       }
-    ]
+    ],
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "3959.53-67",
@@ -4756,8 +4758,8 @@
         "valorInvestimentoPrevisto": 1565000
       }
     ],
-    "latitude": -15.8010300064973,
-    "longitude": -47.93463
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "19754.53-12",
@@ -4832,8 +4834,8 @@
         "valorInvestimentoPrevisto": 7141939.72
       }
     ],
-    "latitude": -15.8002630106667,
-    "longitude": -47.8684721413212
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "1463.53-66",
@@ -5588,8 +5590,8 @@
         "valorInvestimentoPrevisto": 5178264.33
       }
     ],
-    "latitude": -15.758730006453,
-    "longitude": -47.87432
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "4652.53-69",
@@ -5674,8 +5676,8 @@
         "valorInvestimentoPrevisto": 300000
       }
     ],
-    "latitude": -15.82447666828468,
-    "longitude": -47.8294042967
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "5801.53-99",
@@ -6432,8 +6434,8 @@
         "valorInvestimentoPrevisto": 9797207.6
       }
     ],
-    "latitude": -15.7122300064044,
-    "longitude": -47.81289
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "2745.53-81",
@@ -7348,8 +7350,8 @@
         "valorInvestimentoPrevisto": 3580000
       }
     ],
-    "latitude": -15.8031400064995,
-    "longitude": -47.88544
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "4756.53-07",
@@ -8214,8 +8216,8 @@
         "valorInvestimentoPrevisto": 1222883.62
       }
     ],
-    "latitude": -15.7779700064731,
-    "longitude": -47.91842
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "1713.53-42",
@@ -9058,8 +9060,8 @@
         "valorInvestimentoPrevisto": 5431155.55
       }
     ],
-    "latitude": -15.7785400064737,
-    "longitude": -47.99205
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "970.53-80",
@@ -10059,7 +10061,9 @@
         "origem": "Federal",
         "valorInvestimentoPrevisto": 28847382.55
       }
-    ]
+    ],
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "1897.53-66",
@@ -10877,8 +10881,8 @@
         "valorInvestimentoPrevisto": 42465844.04
       }
     ],
-    "latitude": -15.7792244292714,
-    "longitude": -47.8744250366211
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "2032.53-48",
@@ -11742,8 +11746,8 @@
         "valorInvestimentoPrevisto": 40581393.53
       }
     ],
-    "latitude": -15.7902951288361,
-    "longitude": -47.8751610345129
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "2199.53-07",
@@ -11904,8 +11908,8 @@
         "valorInvestimentoPrevisto": 20700000
       }
     ],
-    "latitude": -15.8047231927924,
-    "longitude": -47.937527049287
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "51475.53-96",
@@ -12662,8 +12666,8 @@
         "valorInvestimentoPrevisto": 1786386.74
       }
     ],
-    "latitude": -15.7746600064696,
-    "longitude": -47.91722
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "2355.53-23",
@@ -13450,8 +13454,8 @@
         "valorInvestimentoPrevisto": 473253.6
       }
     ],
-    "latitude": -16.0347400067453,
-    "longitude": -48.05831
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "2743.53-57",
@@ -14246,8 +14250,8 @@
         "valorInvestimentoPrevisto": 25000
       }
     ],
-    "latitude": -15.7948200064908,
-    "longitude": -47.97257
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "3225.53-10",
@@ -14332,8 +14336,8 @@
         "valorInvestimentoPrevisto": 2250000
       }
     ],
-    "latitude": -15.8450200065436,
-    "longitude": -48.09836
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "3226.53-87",
@@ -14974,8 +14978,8 @@
         "valorInvestimentoPrevisto": 1282580.7
       }
     ],
-    "latitude": -15.6445900063341,
-    "longitude": -47.73378
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "6303.53-08",
@@ -15050,8 +15054,8 @@
         "valorInvestimentoPrevisto": 0.01
       }
     ],
-    "latitude": -15.6998800063915,
-    "longitude": -47.78759
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "28189.53-58",
@@ -15726,7 +15730,9 @@
         "origem": "Federal",
         "valorInvestimentoPrevisto": 318861408
       }
-    ]
+    ],
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "28451.53-40",
@@ -15805,7 +15811,9 @@
         "origem": "Federal",
         "valorInvestimentoPrevisto": 318861408
       }
-    ]
+    ],
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "28499.53-30",
@@ -17471,8 +17479,8 @@
         "valorInvestimentoPrevisto": 44535697
       }
     ],
-    "latitude": -15.8157300065127,
-    "longitude": -47.94214
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "29406.53-84",
@@ -18152,8 +18160,8 @@
         "valorInvestimentoPrevisto": 2528253.41
       }
     ],
-    "latitude": -15.7900608177654,
-    "longitude": -47.8752396844013
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "29756.53-15",
@@ -18643,8 +18651,8 @@
         "valorInvestimentoPrevisto": 1000000
       }
     ],
-    "latitude": -15.7949400064909,
-    "longitude": -48.1031
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "30465.53-60",
@@ -18719,8 +18727,8 @@
         "valorInvestimentoPrevisto": 10000
       }
     ],
-    "latitude": -15.7985400064947,
-    "longitude": -48.141
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "3071.53-63",
@@ -18881,8 +18889,8 @@
         "valorInvestimentoPrevisto": 6991463.97
       }
     ],
-    "latitude": -15.7715700064664,
-    "longitude": -47.93034
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "3078.53-04",
@@ -19295,8 +19303,8 @@
         "valorInvestimentoPrevisto": 2371892.6
       }
     ],
-    "latitude": -15.7684791824811,
-    "longitude": -47.8648251836185
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "31059.53-04",
@@ -19457,8 +19465,8 @@
         "valorInvestimentoPrevisto": 2560879.56
       }
     ],
-    "latitude": -15.7685400064632,
-    "longitude": -47.86931
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "31312.53-95",
@@ -19538,8 +19546,8 @@
         "valorInvestimentoPrevisto": 22786128
       }
     ],
-    "latitude": -15.75781,
-    "longitude": -47.91572
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "31.53-12",
@@ -19614,8 +19622,8 @@
         "valorInvestimentoPrevisto": 930000
       }
     ],
-    "latitude": -15.8204500065177,
-    "longitude": -47.84712
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "31576.53-30",
@@ -19776,8 +19784,8 @@
         "valorInvestimentoPrevisto": 9000000
       }
     ],
-    "latitude": -15.7900001172741,
-    "longitude": -47.8751611549854
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "3176.53-69",
@@ -20177,8 +20185,8 @@
         "valorInvestimentoPrevisto": 804166.59
       }
     ],
-    "latitude": -15.66592,
-    "longitude": -48.19334
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "31937.53-20",
@@ -20339,8 +20347,8 @@
         "valorInvestimentoPrevisto": 850000
       }
     ],
-    "latitude": -15.8931600065944,
-    "longitude": -47.78213
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "32085.53-60",
@@ -20425,8 +20433,8 @@
         "valorInvestimentoPrevisto": 416581.66
       }
     ],
-    "latitude": -15.7995100064957,
-    "longitude": -47.87335
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "3224.53-52",
@@ -20597,8 +20605,8 @@
         "valorInvestimentoPrevisto": 2250000
       }
     ],
-    "latitude": -15.8450200065436,
-    "longitude": -48.09836
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "3226.53-87",
@@ -21379,8 +21387,8 @@
         "valorInvestimentoPrevisto": 1050500
       }
     ],
-    "latitude": -15.62341,
-    "longitude": -47.65276
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "33175.53-50",
@@ -21460,8 +21468,8 @@
         "valorInvestimentoPrevisto": 242365.71
       }
     ],
-    "latitude": -15.7633400064578,
-    "longitude": -47.86071
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "33178.53-19",
@@ -22198,8 +22206,8 @@
         "valorInvestimentoPrevisto": 169182.57
       }
     ],
-    "latitude": -15.7619700064563,
-    "longitude": -47.87014
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "34807.53-08",
@@ -22274,8 +22282,8 @@
         "valorInvestimentoPrevisto": 1738293.68
       }
     ],
-    "latitude": -15.7899590449781,
-    "longitude": -47.8751761409287
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "34841.53-39",
@@ -22780,8 +22788,8 @@
         "valorInvestimentoPrevisto": 769738.55
       }
     ],
-    "latitude": -15.7988587777752,
-    "longitude": -47.8600663304903
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "35918.53-89",
@@ -22856,8 +22864,8 @@
         "valorInvestimentoPrevisto": 76800
       }
     ],
-    "latitude": -15.7941800064901,
-    "longitude": -47.86999
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "3592.53-82",
@@ -22937,8 +22945,8 @@
         "valorInvestimentoPrevisto": 786215.61
       }
     ],
-    "latitude": -15.7684600064631,
-    "longitude": -47.86943
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "3594.53-07",
@@ -23512,8 +23520,8 @@
         "valorInvestimentoPrevisto": 492520.46
       }
     ],
-    "latitude": -15.8690100065689,
-    "longitude": -47.90138
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "3702.53-97",
@@ -23588,8 +23596,8 @@
         "valorInvestimentoPrevisto": 74000
       }
     ],
-    "latitude": -15.6962300063878,
-    "longitude": -47.84472
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "370.53-30",
@@ -23850,8 +23858,8 @@
         "valorInvestimentoPrevisto": 2100000
       }
     ],
-    "latitude": -15.7552400064493,
-    "longitude": -47.87728
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "37523.53-40",
@@ -23931,8 +23939,8 @@
         "valorInvestimentoPrevisto": 3580000
       }
     ],
-    "latitude": -15.8031400064995,
-    "longitude": -47.88544
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "37679.53-62",
@@ -24356,8 +24364,8 @@
         "valorInvestimentoPrevisto": 390407.91
       }
     ],
-    "latitude": -15.7936600064895,
-    "longitude": -48.1021
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "37695.53-71",
@@ -24442,8 +24450,8 @@
         "valorInvestimentoPrevisto": 189964.17
       }
     ],
-    "latitude": -15.8428400065413,
-    "longitude": -48.09807
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "37700.53-02",
@@ -24614,8 +24622,8 @@
         "valorInvestimentoPrevisto": 194409.54
       }
     ],
-    "latitude": -15.7929400064888,
-    "longitude": -47.96871
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "37712.53-72",
@@ -24700,8 +24708,8 @@
         "valorInvestimentoPrevisto": 576158.25
       }
     ],
-    "latitude": -15.891840006593,
-    "longitude": -47.78064
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "3779.53-45",
@@ -24781,8 +24789,8 @@
         "valorInvestimentoPrevisto": 266563.26
       }
     ],
-    "latitude": -15.7607900064551,
-    "longitude": -47.87086
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "3819.53-95",
@@ -25547,8 +25555,8 @@
         "valorInvestimentoPrevisto": 1462500
       }
     ],
-    "latitude": -15.91478,
-    "longitude": -48.09981
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "3959.53-67",
@@ -27303,8 +27311,8 @@
         "valorInvestimentoPrevisto": 1293374.47
       }
     ],
-    "latitude": -15.7809800064762,
-    "longitude": -47.89437
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "4173.53-67",
@@ -27536,8 +27544,8 @@
         "valorInvestimentoPrevisto": 11433233.03
       }
     ],
-    "latitude": -15.7899729892687,
-    "longitude": -47.8751716261964
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "41769.53-79",
@@ -27612,8 +27620,8 @@
         "valorInvestimentoPrevisto": 12215000
       }
     ],
-    "latitude": -15.7899506128481,
-    "longitude": -47.8752148339492
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "41770.53-49",
@@ -28095,8 +28103,8 @@
         "valorInvestimentoPrevisto": 3334168.29
       }
     ],
-    "latitude": -15.6607200063508,
-    "longitude": -47.69353
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "4219.53-90",
@@ -28176,8 +28184,8 @@
         "valorInvestimentoPrevisto": 4473329.19
       }
     ],
-    "latitude": -15.8690500065689,
-    "longitude": -47.90173
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "42395.53-31",
@@ -28265,8 +28273,8 @@
         "valorInvestimentoPrevisto": 4371604.48
       }
     ],
-    "latitude": -16.0368300067475,
-    "longitude": -48.05771
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "42395.53-31",
@@ -28688,8 +28696,8 @@
         "valorInvestimentoPrevisto": 17000010
       }
     ],
-    "latitude": -15.90768,
-    "longitude": -48.08658
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "42724.53-27",
@@ -28769,8 +28777,8 @@
         "valorInvestimentoPrevisto": 12319519.51
       }
     ],
-    "latitude": -15.90288,
-    "longitude": -47.77609
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "42908.53-64",
@@ -29012,8 +29020,8 @@
         "valorInvestimentoPrevisto": 669169.17
       }
     ],
-    "latitude": -15.89718,
-    "longitude": -47.40583
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "4293.53-92",
@@ -29704,8 +29712,8 @@
         "valorInvestimentoPrevisto": 4399999.99
       }
     ],
-    "latitude": -15.8701200065701,
-    "longitude": -47.9027
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "43395.53-10",
@@ -29804,8 +29812,8 @@
         "valorInvestimentoPrevisto": 401454.54
       }
     ],
-    "latitude": -15.7791950233421,
-    "longitude": -47.8837710342887
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "43489.53-47",
@@ -29880,8 +29888,8 @@
         "valorInvestimentoPrevisto": 27399.99
       }
     ],
-    "latitude": -15.8281400065258,
-    "longitude": -47.93277
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "43513.53-46",
@@ -30376,8 +30384,8 @@
         "valorInvestimentoPrevisto": 4684.45
       }
     ],
-    "latitude": -15.6855900063767,
-    "longitude": -48.19648
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "43986.53-49",
@@ -30462,8 +30470,8 @@
         "valorInvestimentoPrevisto": 1565000
       }
     ],
-    "latitude": -15.8010300064973,
-    "longitude": -47.93463
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "440.53-82",
@@ -30715,8 +30723,8 @@
         "valorInvestimentoPrevisto": 49973.53
       }
     ],
-    "latitude": -15.6020520990034,
-    "longitude": -47.7168332520646
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "44080.53-46",
@@ -31310,8 +31318,8 @@
         "valorInvestimentoPrevisto": 1800000
       }
     ],
-    "latitude": -15.7850700064805,
-    "longitude": -47.89389
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "44479.53-69",
@@ -31415,8 +31423,8 @@
         "valorInvestimentoPrevisto": 22495684.68
       }
     ],
-    "latitude": -15.86689,
-    "longitude": -48.26036
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "4452.53-00",
@@ -31491,8 +31499,8 @@
         "valorInvestimentoPrevisto": 43877538.59
       }
     ],
-    "latitude": -15.7797200064749,
-    "longitude": -47.92972
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "446.53-11",
@@ -32174,8 +32182,8 @@
         "valorInvestimentoPrevisto": 3928113.56
       }
     ],
-    "latitude": -15.7738000064687,
-    "longitude": -47.91378
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "4539.53-84",
@@ -33287,8 +33295,8 @@
         "valorInvestimentoPrevisto": 1900000
       }
     ],
-    "latitude": -15.7776700064728,
-    "longitude": -47.91864
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "46275.53-65",
@@ -34147,8 +34155,8 @@
         "valorInvestimentoPrevisto": 8000000
       }
     ],
-    "latitude": -15.7836900064791,
-    "longitude": -47.88061
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "468.53-26",
@@ -35762,8 +35770,8 @@
         "valorInvestimentoPrevisto": 200000
       }
     ],
-    "latitude": -15.94763,
-    "longitude": -47.9885
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "49988.53-46",
@@ -36519,8 +36527,8 @@
         "valorInvestimentoPrevisto": 94595.09
       }
     ],
-    "latitude": -15.7293190011298,
-    "longitude": -47.9039621382933
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "50835.53-40",
@@ -37308,8 +37316,8 @@
         "valorInvestimentoPrevisto": 1462500
       }
     ],
-    "latitude": -15.79431,
-    "longitude": -48.16154
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "51029.53-02",
@@ -37465,8 +37473,8 @@
         "valorInvestimentoPrevisto": 119689320.22
       }
     ],
-    "latitude": -15.7899811698142,
-    "longitude": -47.8752434480622
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "51064.53-80",
@@ -38776,8 +38784,8 @@
         "valorInvestimentoPrevisto": 0.01
       }
     ],
-    "latitude": -15.78369,
-    "longitude": -47.880612
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "51605.53-91",
@@ -38854,6 +38862,846 @@
     ],
     "latitude": -15.78369,
     "longitude": -47.880612
+  },
+  {
+    "idUnico": "5161.53-54",
+    "nome": "Ampliação das usinas fotovoltaicas nos campi IFB",
+    "cep": "70.070-906",
+    "endereco": "SAUS quadra 2 Bloco E Ed. Siderbras",
+    "descricao": "O objeto da presente licitação é a escolha da proposta mais vantajosa para a\ncontratação de empresa tecnicamente especializada para execução de serviço de\nengenharia de instalação e fornecimento de usinas fotovoltaicas, com fornecimento de\nmaterial, conforme condições, quantidades e exigências estabelecidas neste Edital e seus\nanexos.",
+    "funcaoSocial": "atender aos usuários das diversas unidades do IFB e modernizar a fonte geradora de energia, tornando assim, todas as unidades mais sustentáveis. ",
+    "metaGlobal": "aumentar a oferta de cursos técnicos/tecnológicos e de curta duração, e para isso, necessita aumentar sua área para laboratórios e salas de aulas integradas a esses laboratórios.",
+    "dataInicialPrevista": "2022-01-10",
+    "dataFinalPrevista": "2022-07-29",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-10",
+    "especie": "Ampliação",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-10",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000FFCF61BEBCF047C0A30909AF429A2FC0",
+        "dataCriacao": "2021-12-10",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-10",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 1350000
+      }
+    ],
+    "latitude": -15.8012900064976,
+    "longitude": -47.88076
+  },
+  {
+    "idUnico": "5166.53-70",
+    "nome": "Construção CFT Campus Riacho Fundo",
+    "cep": "71.826-006",
+    "endereco": "Av. Cedro, AE 15, QS 16 – Riacho Fundo I",
+    "descricao": "O objeto da presente licitação é a escolha da proposta mais vantajosa para a\ncontratação de pessoa jurídica especializada na prestação de serviço de construção civil -\nincluindo todos os materiais, equipamentos e mão de obra, necessários à execução de um\nconjunto de containers onde será instalado o Centro de Formação Tecnológica – CFT do\nCampus Riacho Fundo do Instituto Federal de Brasília- IFB, conforme condições, quantidades\ne exigências estabelecidas neste Edital e seus anexos. ",
+    "funcaoSocial": "atender a comunidade acadêmica do Campus Riacho Fundo principalmente nos eixos de hotelaria, linguagens e gastronomia",
+    "metaGlobal": "aumentar a oferta de cursos técnicos/tecnológicos e de curta duração, e para isso, necessita aumentar sua área para laboratórios e salas de aulas integradas a esses laboratórios.",
+    "dataInicialPrevista": "2022-01-10",
+    "dataFinalPrevista": "2022-10-14",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-10",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-10",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000C5FEB27BF20048C0BB7724C139C32FC0",
+        "dataCriacao": "2021-12-10",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-10",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 2250000
+      }
+    ],
+    "latitude": -15.8813000065819,
+    "longitude": -48.0074
+  },
+  {
+    "idUnico": "5174.53-14",
+    "nome": "Reforma 10 andar, banheiros e copas 5 e 6 e instalações de agua esgoto e combate a incendio do Ed. Siderbras sede Reitoria IFB",
+    "cep": "70.070-906",
+    "endereco": "SAUS Quadra 2 Bloco E Edifício Siderbrás",
+    "descricao": ".O objeto da presente licitação é a escolha da proposta mais vantajosa para a\ncontratação de pessoa jurídica especializada na prestação de serviço de construção civil -\nincluindo todos os materiais, equipamentos e mão de obra, necessários à reforma do\ndécimo pavimento, bem como dos banheiros e copas do quinto e sexto pavimentos e\ninstalações de água fria, esgoto sanitário, águas pluviais e prevenção e combate a incêndio\ndo Edifício Siderbrás, sede da Reitoria do Instituto Federal de Brasília – IFB, conforme\ncondições, quantidades e exigências estabelecidas neste Edital e seus anexos. ",
+    "funcaoSocial": "modernizar as instalações da reitoria do IFB para assim, atender a toda comunidade acadêmica do IFB, seja de servidores, colaboradores alunos e professores. ",
+    "metaGlobal": "aumentar a oferta de cursos técnicos/tecnológicos e de curta duração, e para isso, necessita aumentar sua área para laboratórios e salas de aulas integradas a esses laboratórios.",
+    "dataInicialPrevista": "2022-01-10",
+    "dataFinalPrevista": "2022-10-28",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-10",
+    "especie": "Reforma",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-10",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000DB166536C8F047C07D7A3D2FFA9A2FC0",
+        "dataCriacao": "2021-12-10",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-10",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 2500000
+      }
+    ],
+    "latitude": -15.802690006499,
+    "longitude": -47.88111
+  },
+  {
+    "idUnico": "5218.53-13",
+    "nome": "OBRA CONSTRUÇÃO DO EDIFÍCIO DO INSTITUTO DE ARTES - IDA",
+    "cep": "",
+    "endereco": "",
+    "descricao": "OBRA CONSTRUÇÃO DO EDIFÍCIO DO INSTITUTO DE ARTES - IDA, LOCALIZADO NO SETOR SUL DO CAMPUS UNIVERSITÁRIO DARCY RIBEIRO, DA UNIVERSIDADE DE BRASÍLIA, EM BRASÍLIA/DF, CONFORME CONDIÇÕES, QUANTIDADES E EXIGÊNCIAS ESTABELECIDAS NESTE EDITAL E SEUS ANEXOS.",
+    "funcaoSocial": "O Instituto de Artes ocupa os mesmos espaços físicos que  há dez anos atrás, sendo que atualmente comporta 800 alunos a mais. Esse aumento quantitativo de alunos deu-se em função da adesão ao Reuni, a criação do curso de Teoria Crítica e História da Arte e a criação de três novos Programas de Pós Graduação.\n\nAtualmente o Instituto de Artes é composto por 4 departamentos e 5 programas de pós graduação. Oferecendo 14 cursos em nível de graduação e sete cursos a nível de pós- graduação (5 mestrados e dois doutorados).\n\nA comunidade do IdA é composta por 42 servidores técnicos administrativos, 129 professores e cerca de 1800 alunos. Para se fazer um comparativo em 2010 contávamos com 90 professores efetivos, dois programas de pós graduação, apenas com mestrado e totalizávamos 890 alunos.\n\nEm face do crescimento do Instituto e do estrangulamento dos espaços físicos, atualmente o Instituto ocupa três módulos no subsolo do ICC com o curso de Design e demanda salas em pavilhões para que as aulas do curso de Teoria Crítica e História da Arte sejam ministradas.\n\nDentre os três modos, ocupados pelo curso de Design, apenas dois, somando 800 m², são utilizados. O terceiro módulo não tem ventilação adequada, desenvolveu mofo que colocou em risco a vida dos servidores, sendo que dois deles adoeceram enquanto trabalhavam no local.\n\nO departamento de design, oferece dois cursos de graduação e um de pós-graduação,  ocupa 6 laboratórios, 4 salas de aula, 6 salas de professores, espaço administrativo, centro acadêmico e empresa junior.\n\nO curso de Teoria Crítica e História da Arte ocupa semanalmente 20 salas de aula nos pavilhões multiuso da UnB, tem entrada semestral de 50 alunos, utilizando 5 salas simultâneas para ministrar disciplinas teóricas, além disso, compartilha, no prédio SG1, laboratórios de prática artísticas com o bacharelado e a licenciatura em Artes Visuais.",
+    "metaGlobal": "Trata-se de demanda de ampliação de espaço físico do Instituto de Artes - IdA \n\nAtualmente o Instituto de Artes – IdA - é composto por 42 servidores técnicos administrativos, 129 professores e cerca de 1800 alunos, segundo informações da própria unidade.\n\nO Instituto pleiteou a ampliação de seu espaço físico em razão de não ter recebido acréscimo de área nos últimos dez anos, embora tenha sofrido incremente de sua comunidade discente em mais de 800 alunos, além de inúmeros docentes. Essa ampliação ocorreu em função da adesão ao Reuni, da criação do curso de Teoria Crítica e História da Arte e da criação de três novos Programas de Pós-Graduação.\n\nUma vez que o IdA não foi contemplada com acréscimo de espaço físico, a unidade informa que alguns cursos desenvolvem suas atividades em espaços insuficientes e de caráter provisório, pois não atendem corretamente as necessidades e geram espaços apertados e insalubres.\n\nConsiderando o exposto, a unidade priorizou a necessidade de retirar o curso de Design do subsolo do ICC, a unificação das aulas do curso de Teoria Crítica e História da Arte em um único espaço, além de  centralizar os espaços administrativos e designar áreas para gestão em um único edifício.\n\nPortanto, a construção de uma sede própria constitui medida necessária para proporcionar ao demandante melhores condições espaciais para desenvolver suas atividades finalísticas, além de viabilizar a implementação de ações de planejamento institucional no contexto do Plano de Reordenamento do ICC e a respectiva designação a área atualmente ocupada pelo IdA a outra unidade de modo que também possa ampliar sua área com vistas ao ensino, pesquisa e extensão.",
+    "dataInicialPrevista": "2022-01-17",
+    "dataFinalPrevista": "2023-06-17",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-10",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "obra em tela foi incluída no Plano de Obras 2021 da Universidade de Brasília, aprovado na 405ª Reunião do CAD por meio da RESOLUÇÃO DO CONSELHO DE ADMINISTRAÇÃO Nº 0032/2021 (6781685), constante nos autos do  SEI 23106.065389/2021-99. ",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-10",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000FBCBEEC9C3EE47C0DF5DB214AE872FC0",
+        "dataCriacao": "2021-12-10",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-10",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 20785637.18
+      }
+    ],
+    "latitude": -15.7650000064595,
+    "longitude": -47.86535
+  },
+  {
+    "idUnico": "5222.53-08",
+    "nome": "CNPH - Projeto de PPCI",
+    "cep": "70.351-970",
+    "endereco": "Rodovia BR 060 Km 9 - Samambaia Norte, Brasília - DF",
+    "descricao": "Serviço de Elaboração de Projeto Executivo de Plano de Prevenção de Combate a Incêndio PPCI.",
+    "funcaoSocial": "Viabilizar soluções de pesquisa, desenvolvimento e inovação para a sustentabilidade da agricultura, em benefício da sociedade brasileira.",
+    "metaGlobal": "Serviço de Elaboração de Projeto Executivo de Plano de Prevenção de Combate a Incêndio PPCI.",
+    "dataInicialPrevista": "2022-01-04",
+    "dataFinalPrevista": "2022-03-31",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-10",
+    "especie": "Reforma",
+    "natureza": "Projeto",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-10",
+    "tomadores": [
+      {
+        "nome": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA",
+        "codigo": 25
+      }
+    ],
+    "executores": [
+      {
+        "nome": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA",
+        "codigo": 25
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO",
+        "codigo": 14
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 5,
+        "descricao": "Administrativo",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 5
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000A10CD7C27B1248C0080F087680DD2FC0",
+        "dataCriacao": "2021-12-10",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-10",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 47000
+      }
+    ],
+    "latitude": -15.9326207051122,
+    "longitude": -48.1444018888517
+  },
+  {
+    "idUnico": "5223.53-75",
+    "nome": "SEDE - PPCI",
+    "cep": "70.770-901",
+    "endereco": "Parque Estação Biológica - PqEB s/nº.  Brasília, DF - Brasil - CEP 70770-901",
+    "descricao": "ELABORAÇÃO DE PROJETOS BÁSICO E EXECUTIVO DE PREVENÇÃO E COMBATE A INCÊNDIO E PROJETOS COMPLEMENTARES PARA APROVAÇÃO JUNTO AO CBMDF,",
+    "funcaoSocial": "Viabilizar soluções de pesquisa, desenvolvimento e inovação para a sustentabilidade da agricultura, em benefício da sociedade brasileira.",
+    "metaGlobal": "ELABORAÇÃO DE PROJETOS BÁSICO E EXECUTIVO DE PREVENÇÃO E COMBATE A INCÊNDIO E PROJETOS COMPLEMENTARES PARA APROVAÇÃO JUNTO AO CBMDF,",
+    "dataInicialPrevista": "2020-01-01",
+    "dataFinalPrevista": "2022-02-28",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-10",
+    "especie": "Reforma",
+    "natureza": "Projeto",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": null,
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-10",
+    "tomadores": [
+      {
+        "nome": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA",
+        "codigo": 25
+      }
+    ],
+    "executores": [
+      {
+        "nome": "EMPRESA BRASILEIRA DE PESQUISA AGROPECUÁRIA",
+        "codigo": 25
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO",
+        "codigo": 14
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 5,
+        "descricao": "Administrativo",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 5
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000009A43FA8CEBF247C0A15E94567C762FC0",
+        "dataCriacao": "2021-12-10",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-10",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 20305.41
+      }
+    ],
+    "latitude": -15.7314173751941,
+    "longitude": -47.8978134366982
+  },
+  {
+    "idUnico": "5241.53-97",
+    "nome": "CFT Campus Gama",
+    "cep": "72.429-005",
+    "endereco": "Lote 01, DF 480, Setor de Múltiplas Atividades",
+    "descricao": "O objeto da presente licitação é a escolha da proposta mais vantajosa para a\ncontratação de pessoa jurídica especializada na prestação de serviço de construção civil\n- incluindo todos os materiais, equipamentos e mão de obra, necessários à execução\nde uma edificação onde será instalado o Centro de Formação Tecnológica – CFT do\nCampus Gama do Instituto Federal de Brasília- IFB, conforme condições, quantidades e\nexigências estabelecidas neste Edital e seus anexos",
+    "funcaoSocial": "atender a comunidade acadêmica do Campus Gama principalmente nos eixos de logística/Administração e Tecnologo em alimentos",
+    "metaGlobal": "aumentar a oferta de cursos técnicos/tecnológicos e de curta duração, e para isso, necessita aumentar sua área para laboratórios e salas de aulas integradas a esses laboratórios.",
+    "dataInicialPrevista": "2022-01-11",
+    "dataFinalPrevista": "2022-09-16",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-13",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e pelo menos 50% (cinquenta por cento) da expansão no segmento público",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-13",
+    "tomadores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "executores": [
+      {
+        "nome": "INSTITUTO FED. ED. CIENCIA E TEC. DE BRASILIA",
+        "codigo": 26356
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "MINISTÉRIO DA EDUCAÇÃO",
+        "codigo": 244
+      }
+    ],
+    "eixos": [
+      {
+        "id": 4,
+        "descricao": "Social"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 46,
+        "descricao": "Educação",
+        "idEixo": 4
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000003BDF4F8D970648C026135A0725FC2FC0",
+        "dataCriacao": "2021-12-13",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-13",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 2600000
+      }
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "idUnico": "5246.53-03",
+    "nome": "obra de construção do Edifício da Faculdade de Agronomia e Medicina Veterinária - FAV",
+    "cep": "",
+    "endereco": "",
+    "descricao": "O objeto desta contratação é a obra do Edifício da Faculdade de Agronomia e Medicina Veterinária - FAV, localizado no Setor Norte do Campus Universitário Darcy Ribeiro da Universidade de Brasília, em Brasília/DF, conforme projeto e especificações técnicas.",
+    "funcaoSocial": "rata-se de demanda de ampliação de espaço físico da Faculdade de Agronomia e Medicina Veterinária - FAV, solicitada desde 2006 em decorrência do incremento no número de docentes, discentes, disciplinas e laboratórios;\n\nA construção de um edifício para a FAV é necessária para que a unidade seja remanejada do Instituto Central de Ciências - ICC, onde atualmente se encontra alojada em uma edificação cuja infraestrutura é inadequada para as atividades que são realizadas;\n\nA construção da edificação consolidará um complexo da FAV no Hospital Veterinário de Pequenos Animais - Hvetinho - e possibilitará integrar as atividades acadêmicas e administrativas que atualmente estão espacialmente segregadas;\n\nA construção de uma sede própria constitui medida necessária para viabilizar a implementação de ações de planejamento institucional no contexto do Plano de Reordenamento do ICC e a respectiva designação a área atualmente ocupada pela FAV a outra unidade de modo que também possa ampliar sua área com vistas ao ensino, pesquisa e extensão.",
+    "metaGlobal": "Trata-se de demanda de ampliação de espaço físico da Faculdade de Agronomia e Medicina Veterinária - FAV, solicitada desde 2006 em decorrência do incremento no número de docentes, discentes, disciplinas e laboratórios;\n\nA construção de um edifício para a FAV é necessária para que a unidade seja remanejada do Instituto Central de Ciências - ICC, onde atualmente se encontra alojada em uma edificação cuja infraestrutura é inadequada para as atividades que são realizadas;\n\nA construção da edificação consolidará um complexo da FAV no Hospital Veterinário de Pequenos Animais - Hvetinho - e possibilitará integrar as atividades acadêmicas e administrativas que atualmente estão espacialmente segregadas;\n\nA construção de uma sede própria constitui medida necessária para viabilizar a implementação de ações de planejamento institucional no contexto do Plano de Reordenamento do ICC e a respectiva designação a área atualmente ocupada pela FAV a outra unidade de modo que também possa ampliar sua área com vistas ao ensino, pesquisa e extensão.",
+    "dataInicialPrevista": "2022-01-17",
+    "dataFinalPrevista": "2023-06-17",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-13",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "Plano de Obras 2021 da Universidade de Brasília, aprovado na 405ª Reunião do CAD por meio da RESOLUÇÃO DO CONSELHO DE ADMINISTRAÇÃO Nº 0032/2021 (6781685)",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-13",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 8,
+        "descricao": "Educação",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000E3361AC05BF047C0387391643B7F2FC0",
+        "dataCriacao": "2021-12-13",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-13",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 21129194.03
+      }
+    ],
+    "latitude": -15.7485000064422,
+    "longitude": -47.8778
+  },
+  {
+    "idUnico": "5264.53-25",
+    "nome": "obra construção do Espaço para pesquisa em primeira infância",
+    "cep": "",
+    "endereco": "",
+    "descricao": "objeto é a obra construção do Espaço para pesquisa em primeira infância, localizado no Setor Norte do Campus Universitário Darcy Ribeiro, da Universidade de Brasília, em Brasília/DF, conforme condições, quantidades e exigências estabelecidas no Edital e seus anexos.",
+    "funcaoSocial": "A necessidade em tela decorre de demanda formulada pela Faculdade de Educação - FE, conforme documento SEI N. 6587014, constante nos autos do processo N. 23106.023644/2019-10.\n\nO Espaço para Pesquisa em Primeira Infância pretende ampliar a pesquisa básica e aplicada na formação de professores da Educação Infantil para impactar as práticas cotidianas de ensino e cuidado nas Creches e Escolas Infantis no contexto local e nacional. Também pretende contribuir com pesquisas no desenvolvimento de Políticas Públicas que ampliem as possibilidades de impacto da Educação Infantil em todas as dimensões da sociedade.\n\nAs pesquisas serão baseadas em evidências a partir de modelos de pesquisa que utilizam tanto processos de registro, de análise e de interpretação de dados. A reflexão sobre todas as dimensões que as necessidades do país demandam deverão ser consideradas. A Educação com espaço democrático e de qualidade, atrelado aos aspectos técnicos específicos que devem fazer parte da Educação Infantil é um dos elementos mais relevantes da proposta do EPPI. Aspectos Cognitivos, Afetivos, Legais, Inclusivos, de Justiça, Saúde, Família são eixos norteadores do que o EPPI procura desenvolver. Ao mesmo tempo pretende se tornar em um espaço de criação, inovação, transformação e, especialmente de execução e difusão de conhecimentos para as comunidades;\n\nO EPPI pretende ser um espaço de circulação de pesquisadores nacionais e internacionais que participem de ações formativas, de pesquisa e de extensão e gerar recursos de pesquisa para transformar e inovar nos processos Formativos e na geração de Políticas Públicas em Primeira Infância. Além disso, propõe a ser um espaço para ações formativas, de pesquisa, de extensão e de intercambialidade de conhecimentos entre diversas áreas do conhecimento, dentro e fora da Universidade, sob o eixo temático “Primeira Infância”.\n\n",
+    "metaGlobal": "Assim, a proposta tem como principal objetivo desenvolver um espaço interdisciplinar de Pesquisa Básica e Aplicada que permita a implementação de ações que cubram as diversas esferas e dimensões que envolvem as condições de educação e cuidado das crianças na idade de 0 a 6 anos. Visa, ainda, propiciar espaços de pesquisa e de formação sobre práticas, formas de ensino e cuidado, desenvolvimento integral da criança e inserção da família e do contexto aos aspectos da formação na primeira infância.",
+    "dataInicialPrevista": "2022-01-15",
+    "dataFinalPrevista": "2023-01-15",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-14",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "Plano de Obras 2021 da Universidade de Brasília, aprovado na 405ª Reunião do CAD por meio da RESOLUÇÃO DO CONSELHO DE ADMINISTRAÇÃO Nº 0032/2021 (6781685)",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-14",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 8,
+        "descricao": "Educação",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 84,
+        "descricao": "Educação",
+        "idTipo": 46
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "0101000000CF4E0647C9EF47C0CA4D5ABE13832FC0",
+        "dataCriacao": "2021-12-14",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-15",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 6879573.36
+      }
+    ],
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "idUnico": "5271.53-01",
+    "nome": "construção da Creche da UnB, localizado no Setor Norte do Campus Universitário Darcy Ribeiro, da Universidade de Brasília, em Brasília/DF, conforme projeto e especificações técnicas",
+    "cep": "",
+    "endereco": "",
+    "descricao": "construção da Creche da UnB, localizado no Setor Norte do Campus Universitário Darcy Ribeiro, da Universidade de Brasília, em Brasília/DF, conforme projeto e especificações técnicas",
+    "funcaoSocial": "A necessidade em tela decorre de demanda formulada pela Faculdade de Educação - FE, conforme documento SEI N. 6586942, constante nos autos do processo N. 23106.023644/2019-10.\n\nA construção da creche é uma antiga reivindicação da comunidade da UnB, cuja demanda foi encaminhadas pela administração superior da universidade ao Governo do Distrito Federal - GDF  em diversas oportunidades, com o intuito de construir uma creche-escola, com estagiários próprios da instituição, uma proposta pedagógica inovadora e arquitetura própria.\n\nO espaço atenderá crianças de 0 a 6 anos, com espaços pensados para as necessidades de cada idade, com o intuito de contribuir para seu desenvolvimento.\n\nAs ações, práticas e processos da Escola Infantil pretendem ser atreladas aos modelos baseados em evidências desenvolvidos, ou validados, pelo Espaço de pesquisa em primeira infância.\n\nAssim, a creche será um espaço para desenvolver as condições humanas, cognitivas, afetivas, relacionais, éticas e estéticas da criança dentro de um modelo educacional de permanente reflexão sobre suas práticas, estratégias, fundamentos e modos de agir.\n\nAs necessidades para o espaço foram apresentadas à INFRA pela Faculdade de Educação em conjunto com outras unidades, com o objetivo de criar um espaço para aplicação prática das pesquisas conduzidas, mas principalmente, ser um espaço formador de referências onde crianças possam vivenciar e aprender.\n\nPortanto, para viabilizar a implementação do modelo pedagógico proposto, faz-se necessário construir um novo edifício pensado para atender às necessidades específicas do público infantil que frequentará as dependências da edificação.",
+    "metaGlobal": "A necessidade em tela decorre de demanda formulada pela Faculdade de Educação - FE, conforme documento SEI N. 6586942, constante nos autos do processo N. 23106.023644/2019-10.\n\nA construção da creche é uma antiga reivindicação da comunidade da UnB, cuja demanda foi encaminhadas pela administração superior da universidade ao Governo do Distrito Federal - GDF  em diversas oportunidades, com o intuito de construir uma creche-escola, com estagiários próprios da instituição, uma proposta pedagógica inovadora e arquitetura própria.\n\nO espaço atenderá crianças de 0 a 6 anos, com espaços pensados para as necessidades de cada idade, com o intuito de contribuir para seu desenvolvimento.\n\nAs ações, práticas e processos da Escola Infantil pretendem ser atreladas aos modelos baseados em evidências desenvolvidos, ou validados, pelo Espaço de pesquisa em primeira infância.\n\nAssim, a creche será um espaço para desenvolver as condições humanas, cognitivas, afetivas, relacionais, éticas e estéticas da criança dentro de um modelo educacional de permanente reflexão sobre suas práticas, estratégias, fundamentos e modos de agir.\n\nAs necessidades para o espaço foram apresentadas à INFRA pela Faculdade de Educação em conjunto com outras unidades, com o objetivo de criar um espaço para aplicação prática das pesquisas conduzidas, mas principalmente, ser um espaço formador de referências onde crianças possam vivenciar e aprender.\n\nPortanto, para viabilizar a implementação do modelo pedagógico proposto, faz-se necessário construir um novo edifício pensado para atender às necessidades específicas do público infantil que frequentará as dependências da edificação.",
+    "dataInicialPrevista": "2022-01-15",
+    "dataFinalPrevista": "2023-01-15",
+    "dataInicialEfetiva": null,
+    "dataFinalEfetiva": null,
+    "dataCadastro": "2021-12-15",
+    "especie": "Construção",
+    "natureza": "Obra",
+    "naturezaOutras": "",
+    "situacao": "Cadastrada",
+    "descPlanoNacionalPoliticaVinculado": "Plano de Obras 2021 da Universidade de Brasília, aprovado na 405ª Reunião do CAD por meio da RESOLUÇÃO DO CONSELHO DE ADMINISTRAÇÃO Nº 0032/2021 (6781685)",
+    "uf": "DF",
+    "qdtEmpregosGerados": null,
+    "descPopulacaoBeneficiada": null,
+    "populacaoBeneficiada": null,
+    "observacoesPertinentes": null,
+    "isModeladaPorBim": null,
+    "dataSituacao": "2021-12-15",
+    "tomadores": [],
+    "executores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "repassadores": [
+      {
+        "nome": "FUNDACAO UNIVERSIDADE DE BRASILIA",
+        "codigo": 26271
+      }
+    ],
+    "eixos": [
+      {
+        "id": 1,
+        "descricao": "Administrativo"
+      }
+    ],
+    "tipos": [
+      {
+        "id": 8,
+        "descricao": "Educação",
+        "idEixo": 1
+      }
+    ],
+    "subTipos": [
+      {
+        "id": 59,
+        "descricao": "Obras em Imóveis de Uso Público",
+        "idTipo": 5
+      }
+    ],
+    "geometrias": [
+      {
+        "geometria": "01010000008E1EBFB7E9EF47C0446B684278842FC0",
+        "dataCriacao": "2021-12-15",
+        "origem": "cipiws",
+        "dataMetadado": "2021-12-16",
+        "infoAdicionais": "",
+        "datum": "SIRGAS 2000",
+        "nomeAreaExecutora": null,
+        "enderecoAreaExecutora": null,
+        "cepAreaExecutora": null,
+        "paisAreaExecutora": null
+      }
+    ],
+    "fontesDeRecurso": [
+      {
+        "origem": "Federal",
+        "valorInvestimentoPrevisto": 5178264.33
+      }
+    ],
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "5272.53-79",
@@ -41224,8 +42072,8 @@
         "valorInvestimentoPrevisto": 33776980
       }
     ],
-    "latitude": -15.7901464634647,
-    "longitude": -47.8751696181056
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "5801.53-99",
@@ -41376,8 +42224,8 @@
         "valorInvestimentoPrevisto": 0
       }
     ],
-    "latitude": -15.6962300063878,
-    "longitude": -47.84472
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "5826.53-51",
@@ -43696,8 +44544,8 @@
         "valorInvestimentoPrevisto": 234907.93
       }
     ],
-    "latitude": -15.8034400064998,
-    "longitude": -47.88512
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "6463.53-16",
@@ -44307,8 +45155,8 @@
         "valorInvestimentoPrevisto": 4860790.2
       }
     ],
-    "latitude": -15.6395000063289,
-    "longitude": -47.75063
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "6581.53-17",
@@ -44800,8 +45648,8 @@
         "valorInvestimentoPrevisto": 977314.45
       }
     ],
-    "latitude": -15.9039764338559,
-    "longitude": -47.8170356710464
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "6812.53-14",
@@ -45345,8 +46193,8 @@
         "valorInvestimentoPrevisto": 28959040.65
       }
     ],
-    "latitude": -15.789977150084,
-    "longitude": -47.8752270171166
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "7768.53-70",
@@ -45497,8 +46345,8 @@
         "valorInvestimentoPrevisto": 1282580.7
       }
     ],
-    "latitude": -15.6445900063341,
-    "longitude": -47.73378
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "7776.53-13",
@@ -45573,8 +46421,8 @@
         "valorInvestimentoPrevisto": 919915.73
       }
     ],
-    "latitude": -15.6445900063341,
-    "longitude": -47.73378
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "7781.53-75",
@@ -45649,8 +46497,8 @@
         "valorInvestimentoPrevisto": 46555642.8
       }
     ],
-    "latitude": -15.7900003790601,
-    "longitude": -47.8752484747887
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "7792.53-00",
@@ -46191,8 +47039,8 @@
         "valorInvestimentoPrevisto": 42298609.86
       }
     ],
-    "latitude": -15.789977150084,
-    "longitude": -47.875260020215
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "8349.53-54",
@@ -46343,8 +47191,8 @@
         "valorInvestimentoPrevisto": 58029284.06
       }
     ],
-    "latitude": -15.7900824952813,
-    "longitude": -47.8752274371809
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "8417.53-94",
@@ -46419,8 +47267,8 @@
         "valorInvestimentoPrevisto": 71713022.78
       }
     ],
-    "latitude": -15.7900678917794,
-    "longitude": -47.8752410006085
+    "latitude": null,
+    "longitude": null
   },
   {
     "idUnico": "8421.53-89",
